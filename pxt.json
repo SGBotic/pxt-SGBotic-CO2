@@ -1,0 +1,19 @@
+{
+    "name": "pxt-SGBotic-CO2",
+    "version": "0.1",
+    "description": "Makdecode block for CO2 sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "co2.ts",
+        "base.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
